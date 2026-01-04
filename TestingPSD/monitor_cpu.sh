@@ -223,7 +223,7 @@ done
 #                fi
 #            }
 
-#echo "9MUKaddim*"|sudo -S pkill docker
+#echo "<password>"|sudo -S pkill docker
 #open --background /Applications/Docker.app
 #echo "starting docker"
 
