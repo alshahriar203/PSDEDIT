@@ -283,7 +283,7 @@ for ((i = 1; i <= 7; i++)); do
             echo "Docker container $CONTAINER_NAME and image psdapp deleted."
             docker system prune -f
 
-            #echo "9MUKaddim*"|sudo -S pkill docker
+            #echo "<password>"|sudo -S pkill docker
             #open --background /Applications/Docker.app
             #echo "starting docker"
 
